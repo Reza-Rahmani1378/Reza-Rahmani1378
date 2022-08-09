@@ -3,14 +3,18 @@
 <!--
 **Reza-Rahmani1378/Reza-Rahmani1378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+
+- 🔭 I’m currently working on java language
+- 🌱 I’m currently learning docker and kubernetes
+- 💬 Ask me about any think you want
+- 😄 Pronouns: reza-rez
+- 📫 How to reach me: reza6273757@gmail.com
+
+
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbooshehri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbooshehri&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
