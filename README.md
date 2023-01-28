@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on java and c sharp and python languages
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Ask me about any thing you want
-- 😄 Pronouns: reza-rez
+- 😄 Pronounce: reza-rez
 - 📫 How to reach me: reza6273757@gmail.com
 
 
