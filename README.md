@@ -7,8 +7,8 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently working on java and c sharp and python languages
-- 🌱 I’m currently learning docker and kubernetes
+- 🔭 I’m currently working on java and python languages
+- 🌱 I’m currently learning docker
 - 💬 Ask me about any think you want
 - 😄 Pronouns: reza-rez
 - 📫 How to reach me: reza6273757@gmail.com
