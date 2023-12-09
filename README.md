@@ -7,7 +7,7 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently working on java and python languages
+- 🔭 I’m currently working on java and go languages
 - 🌱 I’m currently learning docker
 - 💬 Ask me about any think you want
 - 😄 Pronouns: reza-rez
