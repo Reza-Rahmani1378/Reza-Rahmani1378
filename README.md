@@ -1,15 +1,15 @@
-### Hi there 👋
+# Hi, I'm Reza 👋
 
+🔭 Currently working on **Java** and **Go**
+🌱 Currently learning **Docker**
+👯 Looking to collaborate on **Shell Scripts**
+📫 Reach me at: reza6273757@gmail.com
 
-- 🔭 I’m currently working on java and go languages
-- 🌱 I’m currently learning docker
-- 💬 Ask me about any think you want
-- 😄 Pronouns: reza-rez
-- 📫 How to reach me: reza6273757@gmail.com
-- 👯 I’m looking to collaborate on pure shell scripts
+---
 
+## 📊 GitHub Stats
 
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reza-Rahmani1378&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Rahmani1378&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Reza-Rahmani1378&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reza-Rahmani1378&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
