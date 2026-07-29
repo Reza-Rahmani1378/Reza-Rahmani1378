@@ -1,9 +1,10 @@
 # Hi, I'm Reza 👋
 
-🔭 Currently working on **Java** and **Go**
-🌱 Currently learning **Docker**
-👯 Looking to collaborate on **Shell Scripts**
-📫 Reach me at: reza6273757@gmail.com
+### Hi there 👋
+- 🔭 I’m currently working on java and go languages
+- 🌱 I’m currently learning docker
+- 📫 How to reach me: reza6273757@gmail.com
+- 👯 I’m looking to collaborate on pure shell scripts
 
 ---
 
